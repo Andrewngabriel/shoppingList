@@ -4,14 +4,17 @@ Cross platform desktop application built with Electron to manage a list
 To run the application on your system, use one of the following commands based on the OS you are using:
 
 **Windows**
-```javascript 
+```javascript
+npm install
 npm run package-win
 ```
 **Mac**
-```javascript 
+```javascript
+npm install
 npm run package-mac
 ```
 **Linux**
-```javascript 
+```javascript
+npm install
 npm run package-linux
 ```
